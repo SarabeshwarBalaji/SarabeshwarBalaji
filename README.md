@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarabeshwarbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="sarabeshwarbalaji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarabeshwarbalaji" alt="sarabeshwarbalaji" /></a> </p>
+- 👯 This was my first project on generating fragrant molecules using graph generative models such as ARGA, ARGVA, Diffusion, VGAE, and GAE. We extensively compared the capabilities of these models in our paper. The link for the paper can be found inside the repo: [https://github.com/CSIO-FPIL/generative-odor](https://github.com/CSIO-FPIL/generative-odor)
 
-- 👯 This was my first project on generating fragrant molecules using graph generative models such as ARGA, ARGVA, Diffusion, VGAE, and GAE. We extensively compared the capabilities of these models in our paper. The project link is: [www.twitter.com](www.twitter.com)
+- 🤝 In my second project, I worked on training graph neural networks to predict odor labels for molecules—an ongoing challenge in chemistry for over a decade. We partitioned molecular electron density to construct a quantum-informed adjacency matrix, which served as the graph representation. The link to the paper can be found inside the repo: [DenseSENSE](https://github.com/CSIO-FPIL/Dense-Sense-ODOR)
 
 - 📝 Google Scholar [https://tinyurl.com/dj9v4pr4](https://tinyurl.com/dj9v4pr4)
 
@@ -18,8 +18,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarabeshwarbalaji&show_icons=true&locale=en&layout=compact" alt="sarabeshwarbalaji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarabeshwarbalaji&show_icons=true&locale=en" alt="sarabeshwarbalaji" /></p>
-
