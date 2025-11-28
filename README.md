@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarabeshwar Balaji</h1>
+<h1 align="center">Sarabeshwar Balaji</h1>
 <h3 align="center">Third-year undergraduate at IISER Bhopal | Research Intern at CSIR-CSIO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarabeshwarbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="sarabeshwarbalaji" /> </p>
