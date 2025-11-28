@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarabeshwarbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="sarabeshwarbalaji" /> </p>
 
-- 👯 This was my first project on generating fragrant molecules using graph generative models such as ARGA, ARGVA, Diffusion, VGAE, and GAE. We extensively compared the capabilities of these models in our paper. The link for the paper can be found inside the repo: [Generative-Odor](https://github.com/CSIO-FPIL/generative-odor)
+- 👯 My first project was on generating fragrant molecules using graph generative models such as ARGA, ARGVA, Diffusion, VGAE, and GAE. We extensively compared the capabilities of these models in our paper. The link for the paper can be found inside the repo: [Generative-Odor](https://github.com/CSIO-FPIL/generative-odor)
 
 - 🤝 In my second project, I worked on training graph neural networks to predict odor labels for molecules—an ongoing challenge in chemistry for over a decade. We partitioned molecular electron density to construct a quantum-informed adjacency matrix, which served as the graph representation. The link to the paper can be found inside the repo: [DenseSENSE](https://github.com/CSIO-FPIL/Dense-Sense-ODOR)
 
